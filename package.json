@@ -1,0 +1,22 @@
+{
+  "name": "stackoverflow-54858413",
+  "version": "1.0.0",
+  "description": "A Stackoverflow answer with json file/array comparison",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NoriSte/stackoverflow-54858413.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NoriSte/stackoverflow-54858413/issues"
+  },
+  "homepage": "https://github.com/NoriSte/stackoverflow-54858413#readme",
+  "dependencies": {
+    "cypress": "^3.1.5"
+  }
+}
